@@ -40,3 +40,4 @@ for i in range(0,101):
     lista_szesciany.append(i**3)
 print("\nLiczby podzielne przez 5:",lista_5)
 print("\nSześciany liczb podzielnych przez 5:",lista_szesciany)
+print("wprowadzilam zmiany w pliku")
